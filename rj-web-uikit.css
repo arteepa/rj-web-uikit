@@ -25,13 +25,14 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
 }
 
 .rjkit-badge-user {
-	background-color: blue;
 	position: absolute;
 	top: 0;
 	left: 0;
 	bottom: 0;
 	right: 0;
 	margin:10%;
+	background-size: cover;
+	border-radius: 50%;
 
 }
 
